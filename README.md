@@ -1,4 +1,4 @@
-## Notes from My First Day @Golang Learning 
+## My Notes from @Golang basics Learning 
 * [Concurrency](https://github.com/Indu-sharma/GoBasics/tree/master/concurrency)
   ### Following are covered in the Go concurrency:
   * Channels Examples
